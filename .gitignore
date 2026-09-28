@@ -3,6 +3,7 @@
 
 # Keep the submission structure.
 !/.gitignore
+!/README.md
 !/discussion/
 !/homework/
 !/project/
